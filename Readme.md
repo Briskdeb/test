@@ -1,3 +1,1 @@
-Nuclear Fuel Refinement
-
-NFR
+Nuclear Fuel Refinement (NFR)
